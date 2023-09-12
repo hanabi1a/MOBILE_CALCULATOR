@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="buttoncolor">#6FA7EB</color>
+    <color name="resultcolor">#ACC7F4</color>
+    <color name="spcbuttoncolor">#31CD38</color>
+    <color name="spc2buttoncolor">#EAD72E</color>
+
+</resources>
